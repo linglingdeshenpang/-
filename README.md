@@ -1,4 +1,8 @@
-# hello-world
-Just another repository
-Hi, humen!
-I love you.
+# 刷机
+
+1.刷机需解锁Bootloader，并非任何手机制造商都会提供解锁；
+2.刷机需要刷入第三方Recovery,并非任何型号手机都能找到第三方Recovery；
+3.刷入第三方Rom，并非任何型号手机都能找到第三方Rom；
+4.刷入masgisk（可选）获取Root权限。
+
+刷机有风险，数据先备份。
